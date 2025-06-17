@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-06-17)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5896836`](https://github.com/stdlib-js/stdlib/commit/5896836635aa28aba7c97b3f21d32735d867c43b) - **build:** add package meta data _(by Athan Reines)_
 -   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
 -   [`5cb475e`](https://github.com/stdlib-js/stdlib/commit/5cb475e48803e73ef8f2f60a83bb7ee94e54ffd9) - **docs:** add notes _(by Athan Reines)_
 -   [`6e5459a`](https://github.com/stdlib-js/stdlib/commit/6e5459aee946a8682857ffbdbe2938beec81ac08) - **docs:** add notes _(by Athan Reines)_
